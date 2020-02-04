@@ -30,6 +30,10 @@ pip install tabulate
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
+## Version History
+
+* 1.0 Initial Release
+
 ## Acknowledgments
 
 * CSI3105 Design and Analysis of Algorithms assignments
