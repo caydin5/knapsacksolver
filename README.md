@@ -26,13 +26,13 @@ pip install tabulate
 * [Python](https://www.python.org)
 * [Tabulate](https://github.com/gregbanks/python-tabulate) - Pretty-print tabular data in Python 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
 ## Version History
 
 * 1.0 Initial Release
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
